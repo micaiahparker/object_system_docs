@@ -1,7 +1,4 @@
 #Actors
-##[Customer](customer.md) 
-##[Server](server.md) 
-#Actors
 ##[Server](server.md)
 ##[Customer](customer.md)
 ##[Client](client.md) 
